@@ -1,0 +1,21 @@
+# Chat Application Requirements
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+python-dotenv==1.0.1
+pydantic==2.9.2
+websockets==13.1
+PyYAML==6.0.2
+
+# Azure AI Agent Framework
+agent-framework-azure-ai-search --pre
+azure-identity>=1.19.0
+azure-ai-projects>=1.0.0b1
+
+# Azure AI Search
+azure-search-documents>=11.7.0b2
+
+azure-ai-projects~=2.0.0b1
+azure-identity~=1.20.0
+ansible-core~=2.17.0
+openai~=2.0.1
+
