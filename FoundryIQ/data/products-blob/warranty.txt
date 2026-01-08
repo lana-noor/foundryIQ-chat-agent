@@ -1,0 +1,43 @@
+# Microsoft Hardware Warranty
+Product Warranty 🛡️
+Warranty Coverage
+
+Microsoft hardware products are backed by a Limited Hardware Warranty that covers defects in materials and workmanship under normal use.
+
+Surface devices, Xbox consoles, and accessories include a 1-year limited warranty from the original date of purchase unless otherwise specified.
+
+This warranty covers hardware failures such as manufacturing defects, internal component malfunctions, battery defects beyond expected degradation, and display issues not caused by accidental damage.
+
+Business and enterprise editions may include extended warranty options, device replacement services, or Microsoft Complete protection plans for additional coverage.
+
+FAQs
+
+- What does the Microsoft hardware warranty cover?
+The warranty covers defects in materials and workmanship that arise during normal use. This includes issues with processors, memory, storage, displays, power components, and internal hardware assemblies.
+
+- What is not covered by the warranty?
+The warranty does not cover accidental damage, drops, liquid damage, cosmetic wear, unauthorized repairs, software issues, data loss, or damage caused by misuse or environmental conditions outside recommended operating ranges.
+
+- Do Microsoft devices come with accidental damage protection?
+Standard warranties do not include accidental damage. However, customers may purchase Microsoft Complete, which adds accidental damage coverage, express replacement, and priority support.
+
+- How long do Surface and Xbox batteries last under warranty?
+Batteries are covered against manufacturing defects but are considered consumable components. Normal battery capacity reduction over time is expected and not considered a defect.
+
+- How do I check my warranty status?
+You can check warranty coverage by registering your device using its serial number at account.microsoft.com/devices.
+
+- Is international warranty support available?
+Warranty service availability may vary by country. Microsoft provides global support, but replacement options and timelines depend on regional service centers.
+
+- Can I get a replacement instead of a repair?
+Depending on the product and issue, Microsoft may offer repair, refurbished replacement, or equivalent device replacement at its discretion.
+
+- What if my device arrives defective or damaged?
+If your device arrives defective or damaged, contact Microsoft Support within 7 days of delivery for expedited replacement or refund processing.
+
+- Are software issues covered under the hardware warranty?
+Software issues are not covered under the hardware warranty, but Microsoft provides troubleshooting support, updates, and recovery tools at no additional cost.
+
+- Do accessories have the same warranty coverage?
+Most Microsoft accessories (keyboards, mice, pens, controllers) include a 1-year limited warranty covering manufacturing defects.
